@@ -1,0 +1,18 @@
+# Flutter
+.dart_tool/
+build/
+.idea/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+**/android/.gradle/
+
+# React Native / Expo
+node_modules/
+.expo/
+.expo-shared/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
